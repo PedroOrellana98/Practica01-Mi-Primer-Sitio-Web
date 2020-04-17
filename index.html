@@ -5,12 +5,16 @@
     </title>
     <meta charset="UTF-8">
     <meta name="keywords" content="PC,Hardware">
+    <link href="css/general.css" rel="stylesheet" type="text/css"/>
+    <link href="css/principal.css" rel="stylesheet" type="text/css"/>
     <header>
-        <h1 style="text-align:center;"> EL HARDWARE DE PC </h1>
-        <img src="images/componentes.jpg" width="200" height="125" alt="componentes">
+        <img id="tituloImangen" src="images/componentes.jpg" alt="componentes"> 
+        <input id="tituloTexto" type="search" placeholder="Buscar">
+        <img id="imagenPerfil" src="images/Principal/perfil.jpg" alt="perfil"> 
+        <img id="imagenCorreo" src="images/Principal/correo.png" alt="correo"> 
     </header>
-    <nav>
-        <ul>
+    <nav class = "navegacion">
+        <ul class = "lista">
             <li><a href=docs/procesador.html>Procesador</a></li>
             <li><a href=docs/placa-madre.html>Placa madre</a></li>
             <li><a href=docs/ram.html>Ram</a></li>
@@ -21,24 +25,16 @@
             <li><a href=index.html#contacto>Contacto</a></li>
             </ul>
     </nav>
-    <section>
-        <article>
-            <h3> ¿Que es el hardware? </h3>
-            <p > Hardware es la parte física de un ordenador o sistema informático. Está formado por los componentes eléctricos, electrónicos, electromecánicos y mecánicos, tales como circuitos de cables y luz, placas, memorias, discos duros, dispositivos periféricos y cualquier otro material en estado físico que sea necesario para hacer que el equipo funcione.<cite style="color: blue"> Significado de Hardware by https://www.significados.com/hardware/ </cite></p>
+    <section id = "sectionHardware">
+        <h1 hidden> Introduccion al Hardware </h1>
+        <article class = "articleHardware">
+            <h2> ¿Que es el hardware? </h2>
+            <p> Hardware es la parte física de un ordenador o sistema informático. Está formado por los componentes eléctricos, electrónicos, electromecánicos y mecánicos, tales como circuitos de cables y luz, placas, memorias, discos duros, dispositivos periféricos y cualquier otro material en estado físico que sea necesario para hacer que el equipo funcione. </p>
+            <input id= "boton1" type="submit" value="Me gusta">
+            <input id= "boton2" type="submit" value="No me gusta">
         </article>
-        <article>
-            <h3> Clasificación del hardware </h3>
-            <blockquote>
-                <ul>
-                    <li >Hardware de Procesamiento</li>
-                    <li >Hardware de Almacenamiento</li>
-                    <li >Hardware Grafico</li>
-                </ul>
-            </blockquote> 
-        </article>
-        <aside style="text-align:right;">
-            <h4><em>Ensamble de un pc</em></h4>
-            <iframe width="400" height="200" 
+        <aside class="asideVideo">
+            <iframe id="video"
             src="https://www.youtube.com/embed/bnct-W1jpOo"></iframe> 
         </aside>
     </section>

@@ -1,0 +1,33 @@
+*{
+    background-color: #00D3CD;
+}
+
+.navegacion {
+    float: left;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 9%;
+}
+
+.lista > li {
+    border-radius: 5%;
+    border-width: 1px;
+    border-style: solid;
+    display: block;
+    float: left;
+    height: 20px;
+    background-color:#68BBFF;
+}
+
+.lista > li > a {
+    width: 150px;
+    display: block;
+    float: left;
+    text-align: center;
+    color: white;
+    background-color:#68BBFF;
+}
+
+footer {
+    clear: both;
+}
