@@ -7,10 +7,8 @@
     float: left;
     width: 40%;
     height: 30px;
-    background: white;
     margin-top: 50px;
     margin-left: 10%;
-    border-radius: 10px;
 }
 
 
@@ -72,12 +70,9 @@ body{
 
 #imagenContacto {
     float: left;
-    border-radius: 30%;
-    width: 50%;
-    height: 50%;
+    width: 100%;
+    height: 30%;
     margin-top: 5px;
-    margin-left: 20%;
-    margin-right: 20%;
 }
 
 #imagenValoracion {
@@ -90,16 +85,16 @@ body{
     float: left;
     border-radius: 30%;
     margin-left: 25%;
-    width: 30px;
-    height: 25px;
+    width: 60px;
+    height: 60px;
 }
 
 #imagenInstagram {
     float: left;
     border-radius: 30%;
-    margin-left: 25%;
-    width: 30px;
-    height: 25px;
+    margin-left: 20%;
+    width: 60px;
+    height: 60px;
 }
 
 #sectionHardware {
@@ -231,10 +226,12 @@ hr.separator {
 
 #footerInfo {
     float: left;
-    width: 30%;
+    margin-left: 1%;
+    width: 29%;
 }
 
 #divImage1 {
+    margin-top: 5px;
     float: left;
     width: 100%;
 }
@@ -242,6 +239,8 @@ hr.separator {
 #divImage2 {
     float: left;
     width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 #divCopy {
@@ -251,7 +250,21 @@ hr.separator {
 
 #footerContacto {
     float: left;
-    width: 30%;
+    width: 29%;
+    margin-left: 5%;
+    margin-right: 1%;
+}
+
+#footerLocalizacion {
+    float: left;
+    width: 29%;
+    height: 220px;
+    margin-left: 5%;
+}
+
+#localizacion {
+    width: 100%;
+    height: 100%;
 }
 
 .labelContacto {
@@ -261,5 +274,7 @@ hr.separator {
 
 footer {
     clear: both;
+    width: 100%;
+    height: 240px;
     background-color: whitesmoke !important;
 }
