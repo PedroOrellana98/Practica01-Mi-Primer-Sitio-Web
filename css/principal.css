@@ -9,6 +9,7 @@
     height: 30px;
     margin-top: 50px;
     margin-left: 10%;
+    border-style: solid;
 }
 
 
@@ -263,6 +264,7 @@ hr.separator {
 }
 
 #localizacion {
+    margin-top: 5px;
     width: 100%;
     height: 100%;
 }
@@ -275,6 +277,6 @@ hr.separator {
 footer {
     clear: both;
     width: 100%;
-    height: 240px;
+    height: 235px;
     background-color: whitesmoke !important;
 }
