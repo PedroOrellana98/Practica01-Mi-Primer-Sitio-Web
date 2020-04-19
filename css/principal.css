@@ -13,6 +13,11 @@
     border-radius: 10px;
 }
 
+
+body{
+    background-color: white;
+}
+
 .navegacion {
     float: left;
     margin-top: 30px;
@@ -65,10 +70,36 @@
     margin-left: 10%;
 }
 
+#imagenContacto {
+    float: left;
+    border-radius: 30%;
+    width: 50%;
+    height: 50%;
+    margin-top: 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
 #imagenValoracion {
     border-radius: 30%;
     width: 60px;
     height: 50px;
+}
+
+#imagenFacebook {
+    float: left;
+    border-radius: 30%;
+    margin-left: 25%;
+    width: 30px;
+    height: 25px;
+}
+
+#imagenInstagram {
+    float: left;
+    border-radius: 30%;
+    margin-left: 25%;
+    width: 30px;
+    height: 25px;
 }
 
 #sectionHardware {
@@ -127,6 +158,10 @@ p {
     font-size: large;
 }
 
+a:visited {
+  color: green;  
+}
+
 hr.separator {
     border-top: 3px solid black;
     background-color: black;
@@ -177,8 +212,7 @@ hr.separator {
 }
 
 .estrellas {
-    float: left;
-    margin-left: 30%;
+    margin-left: 22%;
     margin-right: 30%;
 	font-size: 0;
 	display: inline-block;
@@ -195,10 +229,37 @@ hr.separator {
 	color: gold;
 }
 
-body{
-    background-color: white;
+#footerInfo {
+    float: left;
+    width: 30%;
+}
+
+#divImage1 {
+    float: left;
+    width: 100%;
+}
+
+#divImage2 {
+    float: left;
+    width: 100%;
+}
+
+#divCopy {
+    float: left;
+    width: 100%;
+}
+
+#footerContacto {
+    float: left;
+    width: 30%;
+}
+
+.labelContacto {
+    display: block;
+    margin: .5em 0 0 0;
 }
 
 footer {
     clear: both;
+    background-color: whitesmoke !important;
 }
