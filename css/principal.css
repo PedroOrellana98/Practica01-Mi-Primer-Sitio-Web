@@ -161,3 +161,7 @@ hr.separator {
 .estrellas a {
 	color: gold;
 }
+
+footer {
+    background-color: whitesmoke !important;
+}
