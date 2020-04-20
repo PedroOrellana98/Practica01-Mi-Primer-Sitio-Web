@@ -8,6 +8,10 @@ body{
     font-family: 'fuente';
 }
 
+a {
+    color: orangered;
+}
+
 a:visited {
     text-decoration-color: orange;
 }
