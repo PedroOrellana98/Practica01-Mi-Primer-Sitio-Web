@@ -1,18 +1,3 @@
-#titulo {
-    text-align: center;
-    color: black;
-}
-
-#tituloTexto {
-    float: left;
-    width: 40%;
-    height: 30px;
-    margin-top: 50px;
-    margin-left: 10%;
-    border-style: solid;
-}
-
-
 body{
     background-color: white;
 }
@@ -21,8 +6,8 @@ body{
     float: left;
     margin-top: 30px;
     margin-bottom: 30px;
-    margin-left: 8%;
-    margin-right: 8%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 .lista > li {
@@ -44,58 +29,10 @@ body{
     background-color:silver;
 }
 
-#tituloImangen {
-    float: left;
-    border-radius: 10%;
-    width: 300px;
-    height: 150px;
-}
-
-#imagenCorreo {
-    float: left;
-    border-radius: 30%;
-    width: 100px;
-    height: 80px;
-    margin-top: 25px;
-    margin-left: 1%;
-}
-
-#imagenPerfil {
-    float: left;
-    border-radius: 30%;
-    width: 100px;
-    height: 80px;
-    margin-top: 25px;
-    margin-left: 10%;
-}
-
-#imagenContacto {
-    float: left;
-    width: 100%;
-    height: 30%;
-    margin-top: 5px;
-}
-
 #imagenValoracion {
     border-radius: 30%;
     width: 60px;
     height: 50px;
-}
-
-#imagenFacebook {
-    float: left;
-    border-radius: 30%;
-    margin-left: 25%;
-    width: 60px;
-    height: 60px;
-}
-
-#imagenInstagram {
-    float: left;
-    border-radius: 30%;
-    margin-left: 20%;
-    width: 60px;
-    height: 60px;
 }
 
 #sectionHardware {
@@ -223,60 +160,4 @@ hr.separator {
 
 .estrellas a {
 	color: gold;
-}
-
-#footerInfo {
-    float: left;
-    margin-left: 1%;
-    width: 29%;
-}
-
-#divImage1 {
-    margin-top: 5px;
-    float: left;
-    width: 100%;
-}
-
-#divImage2 {
-    float: left;
-    width: 100%;
-    margin-top: 5px;
-    margin-bottom: 5px;
-}
-
-#divCopy {
-    float: left;
-    width: 100%;
-}
-
-#footerContacto {
-    float: left;
-    width: 29%;
-    margin-left: 5%;
-    margin-right: 1%;
-}
-
-#footerLocalizacion {
-    float: left;
-    width: 29%;
-    height: 220px;
-    margin-left: 5%;
-}
-
-#localizacion {
-    margin-top: 5px;
-    width: 100%;
-    height: 100%;
-}
-
-.labelContacto {
-    display: block;
-    margin: .5em 0 0 0;
-}
-
-footer {
-    clear: both;
-    width: 100%;
-    height: 235px;
-    background-color: whitesmoke !important;
 }

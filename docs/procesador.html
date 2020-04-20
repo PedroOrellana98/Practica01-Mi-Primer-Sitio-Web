@@ -5,27 +5,33 @@
     </title>
     <meta charset="UTF-8" />
     <meta name="keywords" content="Hardware,PC,Procesador" />
-    <link href= "/css/general.css" rel="stylesheet" type="text/css"/>
+    <link href= "../css/general.css" rel="stylesheet" type="text/css"/>
+    <link href= "../css/2columnas.css" rel="stylesheet" type="text/css"/>
     <header>
-        <h1 style="text-align:center;"> PROCESADORES </h1>
-        <img src="../images/procesador.jpg" width="200" height="100" alt="procesador">
+        <h1 id = "titulo"> PROCESADORES </h1>
+        <img id="tituloImangen" src="../images/procesador.jpg" alt="procesador">`
+        <input id="tituloTexto" type="search" placeholder="Buscar">
+        <img id="imagenPerfil" src="../images/Principal/perfil.jpg" alt="perfil"> 
+        <img id="imagenCorreo" src="../images/Principal/correo.png" alt="correo"> 
     </header>
-    <nav>
-        <ul>
-            <li><a href=../index.html>Pagina Principal</a></li>
-            <li><a href=placa-madre.html>Placa madre</a></li>
-            <li><a href=ram.html>Ram</a></li>
-            <li><a href=almacenamiento.html>Almacenamiento</a></li>
-            <li><a href=fuente-poder.html>Fuente de Poder</a></li>
-            <li><a href=tarjeta-video.html>Tarjeta de Video</a></li>
-            <li><a href=perifericos.html>Perifericos</a></li>
-            <li><a href=procesador.html#contacto>Contacto</a></li>
-            </ul>
-    </nav>
-    <section>
+    <div class = "divNav">
+        <nav class="navegar">
+            <ul class = "list">
+                <li><a href=../index.html>Pagina Principal</a></li>
+                <li><a href=placa-madre.html>Placa madre</a></li>
+                <li><a href=ram.html>Ram</a></li>
+                <li><a href=almacenamiento.html>Almacenamiento</a></li>
+                <li><a href=fuente-poder.html>Fuente de Poder</a></li>
+                <li><a href=tarjeta-video.html>Tarjeta de Video</a></li>
+                <li><a href=perifericos.html>Perifericos</a></li>
+                <li><a href=procesador.html#contacto>Contacto</a></li>
+                </ul>
+        </nav>
+    </div>
+    <section class = "sectionContenido">
         <article>
-            <h3 style="color: blue"> INTEL </h3>
-            <p style="color: black"> Es una de las compañias que desarrollan procesadores de gran calidad para computadoras de escritorio, laptops, servidores siendo la mas antigua y la que mas CPUs ha vendido durante años. </p>
+            <h3> INTEL </h3>
+            <p> Es una de las compañias que desarrollan procesadores de gran calidad para computadoras de escritorio, laptops, servidores siendo la mas antigua y la que mas CPUs ha vendido durante años. </p>
         </article>
         <aside style="text-align:right;">
             <p><em>Oficinas de INTEL</em></p>
@@ -33,10 +39,10 @@
             src="https://maps.google.com/?ll=37.3881,-121.964&z=15&output=embed"></iframe>
         </aside>
     </section>
-    <section>
+    <section class = "sectionContenido">
         <article>
-            <h3 style="color: red"> AMD </h3>
-            <p style="color: black"> Es la segunda compañia que actualmente desarrolla procesadores para servidores, laptops y computadores de escritorio con costos mas bajos que la compañia Intel. </p>
+            <h3> AMD </h3>
+            <p> Es la segunda compañia que actualmente desarrolla procesadores para servidores, laptops y computadores de escritorio con costos mas bajos que la compañia Intel. </p>
         </article>
         <aside style="text-align:right;">
             <p><em>Oficinas de AMD</em></p>
@@ -45,12 +51,34 @@
         </aside>
     </section>
     <footer>
-        <address id="contacto"> 
-            Nombre: Pedro  Orellana <br>
-            Organizacion: Universidad Politecnica Salesiana <br>
-            Correo: <a href="mailto:porellanaj@est.ups.edu.ec"> porellanaj@est.ups.edu.ec </a> <br>
-            Telefono: <a href="tel:+59398550859"> 0998550859 </a><br>
-            &copy; Todos los derechos reservados
-        </address>
+        <div id = "footerInfo">
+            <div id = "divImage1">
+                <img id="imagenFacebook" src="../images/Principal/facebook.png" alt="facebook">
+                <img id="imagenInstagram" src="../images/Principal/instagram.png" alt="instagram">
+            </div>
+            <div id = "divImage2">
+                <img id="imagenContacto" src="../images/Principal/contacto.png" alt="contacto">
+            </div>
+            <div id = "divCopy">
+                &copy; Todos los derechos reservados
+            </div>
+        </div>
+        <div id = "footerContacto">
+            <form>
+                <fieldset>
+                    <legend> Quien Soy </legend>
+                        <label class="labelContacto"> PEDRO JOSE ORELLANA </label>
+                        <label class="labelContacto"> Correo: <a href="mailto:porellanaj@est.ups.edu.ec"> 
+                        porellanaj@est.ups.edu.ec </a> </label>
+                        <label class="labelContacto"> Telefono: <a href="tel:+59398550859"> 
+                            0998550859 </a> </label>
+                            <label class="labelContacto"> UNIVERSIDAD POLITECNICA SALESIANA </label>
+                </fieldset>
+            </form>
+        </div>
+        <div id = "footerLocalizacion">
+            <iframe id = "localizacion"
+            src="https://maps.google.com/?ll=-2.886850,-78.989353&z=16&output=embed"></iframe>
+        </div>
     </footer>
 </html>

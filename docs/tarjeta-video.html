@@ -5,9 +5,13 @@
     </title>
     <meta charset="UTF-8" />
     <meta name="keywords" content="Hardware,PC,Tarjeta de Video"/>
+    <link href= "../css/general.css" rel="stylesheet" type="text/css"/>
     <header>
-        <h1 style="text-align:center;"> TARJETA DE VIDEO </h1>
-        <img src="../images/tarjeta-video.jpg" width="200" height="150" alt="tarjeta-video">
+        <h1 id = "titulo"> TARJETA DE VIDEO </h1>
+        <img id="tituloImangen" src="../images/tarjeta-video.jpg" alt="tarjeta-video">`
+        <input id="tituloTexto" type="search" placeholder="Buscar">
+        <img id="imagenPerfil" src="../images/Principal/perfil.jpg" alt="perfil"> 
+        <img id="imagenCorreo" src="../images/Principal/correo.png" alt="correo">
     </header>
     <nav>
         <ul>
@@ -46,12 +50,34 @@
         </aside>
     </section>
     <footer>
-        <address id="contacto"> 
-            Nombre: Pedro  Orellana <br>
-            Organizacion: Universidad Politecnica Salesiana <br>
-            Correo: <a href="mailto:porellanaj@est.ups.edu.ec"> porellanaj@est.ups.edu.ec </a> <br>
-            Telefono: <a href="tel:+59398550859"> 0998550859 </a><br>
-            &copy; Todos los derechos reservados
-        </address>
+        <div id = "footerInfo">
+            <div id = "divImage1">
+                <img id="imagenFacebook" src="../images/Principal/facebook.png" alt="facebook">
+                <img id="imagenInstagram" src="../images/Principal/instagram.png" alt="instagram">
+            </div>
+            <div id = "divImage2">
+                <img id="imagenContacto" src="../images/Principal/contacto.png" alt="contacto">
+            </div>
+            <div id = "divCopy">
+                &copy; Todos los derechos reservados
+            </div>
+        </div>
+        <div id = "footerContacto">
+            <form>
+                <fieldset>
+                    <legend> Quien Soy </legend>
+                        <label class="labelContacto"> PEDRO JOSE ORELLANA </label>
+                        <label class="labelContacto"> Correo: <a href="mailto:porellanaj@est.ups.edu.ec"> 
+                        porellanaj@est.ups.edu.ec </a> </label>
+                        <label class="labelContacto"> Telefono: <a href="tel:+59398550859"> 
+                            0998550859 </a> </label>
+                            <label class="labelContacto"> UNIVERSIDAD POLITECNICA SALESIANA </label>
+                </fieldset>
+            </form>
+        </div>
+        <div id = "footerLocalizacion">
+            <iframe id = "localizacion"
+            src="https://maps.google.com/?ll=-2.886850,-78.989353&z=16&output=embed"></iframe>
+        </div>
     </footer>
 </html>
