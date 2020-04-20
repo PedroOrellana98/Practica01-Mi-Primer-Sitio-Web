@@ -1,8 +1,37 @@
 body{
-    background-image: url(https://www.solofondos.com/wp-content/uploads/2015/11/new-fondo1lateral.jpg);
+    background-image: url(https://www.solofondos.com/wp-content/uploads/2015/11/fondo-para-paginas-web-profesionales-3d-grandes.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
     color: white;
 }
 
 #titulo {
     color: white !important;
+}
+
+.sectionContenido {
+    float: left;
+    margin-top: 30px;
+    width: 55%;
+    margin-left: 2%;
+}
+
+.asidePublicidad {
+    float: left;
+    margin-top: 30px;
+    width: 20%;
+    margin-left: 2%;
+}
+
+.videoAside {
+    width: 320px;
+    height: 240px; 
+}
+
+#textNvidia {
+    color: greenyellow;
+}
+
+#textAMD {
+    color: red;
 }

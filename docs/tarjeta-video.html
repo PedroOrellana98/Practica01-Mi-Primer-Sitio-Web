@@ -6,7 +6,7 @@
     <meta charset="UTF-8" />
     <meta name="keywords" content="Hardware,PC,Tarjeta de Video"/>
     <link href= "../css/general.css" rel="stylesheet" type="text/css"/>
-    <link href= "../css/2columnas.css" rel="stylesheet" type="text/css"/>
+    <link href= "../css/3columnas.css" rel="stylesheet" type="text/css"/>
     <header>
         <h1 id = "titulo"> TARJETA DE VIDEO </h1>
         <img id="tituloImangen" src="../images/tarjeta-video.jpg" alt="tarjeta-video">`
@@ -28,30 +28,26 @@
             </ul>
     </nav>
     </div>
-    <section>
+    <section class = "sectionContenido">
         <article>
-            <h3 style="color: green"> NVIDIA </h3>
-            <p  style="color: black"> Una compañia que contruye las mejores tarjetas de video superando a AMD por mucho pero por lejos la mas cara con sus diferentes gamas. </p>
+            <h3 id = "textNvidia"> NVIDIA </h3>
+            <p> Una compañia que contruye las mejores tarjetas de video superando a AMD por mucho pero por lejos la mas cara con sus diferentes gamas. </p>
         </article>
-        <aside style="text-align:right;">
-            <p><b><cite>Ray Tracing</cite></b></p>
-            <video width="320" height="240"  controls 
-                src="../videos/NVIDIA.webm">
-            </video>
-        </aside>
-    </section>
-    <section>
         <article>
-            <h3 style="color: red"> AMD </h3>
-            <p style="color: black"> AMD por su parte vende graficas a un coste mas bajo, con controladores superiores a los de NVIDIA optimizando sus tarjetas para un mejor rendimiento. </p>
+            <h3 id = "textAMD"> AMD </h3>
+            <p > AMD por su parte vende graficas a un coste mas bajo, con controladores superiores a los de NVIDIA optimizando sus tarjetas para un mejor rendimiento. </p>
         </article>
-        <aside style="text-align:right;">
-            <p><u><i>Tecnologia de 7 nanometros</i></u></p>
-            <video width="320" height="240"  controls 
-                src="../videos/AMD.webm">
-            </video>
-        </aside>
     </section>
+    <aside class = "asidePublicidad">
+        <p><b>Ray Tracing</b></p>
+        <video class="videoAside" controls 
+            src="../videos/NVIDIA.webm">
+        </video>
+        <p><u><i>Tecnologia de 7 nanometros</i></u></p>
+        <video class="videoAside" controls 
+            src="../videos/AMD.webm">
+        </video>
+    </aside>
     <footer>
         <div id = "footerInfo">
             <div id = "divImage1">
@@ -74,7 +70,7 @@
                         porellanaj@est.ups.edu.ec </a> </label>
                         <label class="labelContacto"> Telefono: <a href="tel:+59398550859"> 
                             0998550859 </a> </label>
-                            <label class="labelContacto"> UNIVERSIDAD POLITECNICA SALESIANA </label>
+                        <label class="labelContacto"> UNIVERSIDAD POLITECNICA SALESIANA </label>
                 </fieldset>
             </form>
         </div>
