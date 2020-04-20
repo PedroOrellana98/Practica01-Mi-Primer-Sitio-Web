@@ -2,6 +2,15 @@
     background-color: #00D3CD;
 }
 
+@font-face {
+    font-family: fuente;
+    src: url("//fonts/Comic_Neue/ComicNeue-Regular.ttf")
+}
+
+body {
+    font-family: 'fuente';
+}
+
 footer {
     clear: both;
 }
