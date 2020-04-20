@@ -4,12 +4,12 @@
         MI PRIMERA PAGINA WEB
     </title>
     <meta charset="UTF-8" />
-    <meta name="keywords" content="Hardware,PC,HDD,SSD,NVME" />
+    <meta name="keywords" content="Contacto.Crear cuenta" />
     <link href= "../css/general.css" rel="stylesheet" type="text/css"/>
-    <link href= "../css/2columnas.css" rel="stylesheet" type="text/css"/>
+    <link href= "../css/cuenta.css" rel="stylesheet" type="text/css"/>
     <header>
         <h1 id = "titulo"> CONTACTO </h1>
-        <img id="tituloImangen" src="../images/almacenamiento.jpg" alt="almacenamiento">`
+        <img id="tituloImangen" src="../images/Principal/cuenta.jpg" alt="almacenamiento">
         <input id="tituloTexto" type="search" placeholder="Buscar">
         <img id="imagenPerfil" src="../images/Principal/perfil.jpg" alt="perfil"> 
         <img id="imagenCorreo" src="../images/Principal/correo.png" alt="correo">
@@ -24,12 +24,20 @@
             <li><a href=fuente-poder.html>Fuente de Poder</a></li>
             <li><a href=tarjeta-video.html>Tarjeta de Video</a></li>
             <li><a href=perifericos.html>Perifericos</a></li>
-            <li><a href=contaco.html>Contacto</a></li>
             </ul>
     </nav>
     </div>
     <section class="sectionContenido">
-      
+        <form>
+            <fieldset>
+                    <legend> CREAR CUENTA </legend>
+                    <label class="labelContacto"> NOMBRE: </label><br>
+                    <input type="text" id="txtContacto" name="fname"><br>
+                    <label class="labelContacto"> MENSAJE: </label><br>
+                    <input type="text" id="txtMensaje" name="fname"><br>
+                    <input id= "botonContacto" type="submit" value="Enviar">
+            </fieldset>
+        </form>
     </section>
     <footer>
         <div id = "footerInfo">
