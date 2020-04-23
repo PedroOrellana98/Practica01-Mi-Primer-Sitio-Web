@@ -125,18 +125,20 @@ Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
 
 1.- Creación de un repositorio en GitHub con el nombre de “Practica02 – Mi Sitio Web (CSS)”.
 
+![Image 1](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura.PNG)
+
 2.- Realizaciones de commits y push en el directorio de GitHub de todos los requerimientos antes descritos.
+
+![Image 2](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura1.PNG)
 
 3.-Validaciones de las páginas web a través de la herramienta W3C.
 
 1. PAGINAS HTML
 
-![Image 1](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura.PNG)
-
 1.1 Validación de la página principal index.html: no se encontraron errores de sintaxis.
-```
 
-```
+![Image 3](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura2.PNG)
+
 CONSEJO ACADÉMICO Aprobación: 2016 / 04 / 06
 Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
 ```
