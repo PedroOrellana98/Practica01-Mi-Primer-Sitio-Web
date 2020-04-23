@@ -144,8 +144,11 @@ Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
 ```
 1.2 Validación de la página secundaria almacenamiento.html: no se encontraron errores de sintaxis.
 
+![Image 4](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura3.PNG)
+
 1.3 Validación de la página secundaria cuenta.html: no se encontraron errores de sintaxis.
 
+![Image 5](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura4.PNG)
 
 ```
 CONSEJO ACADÉMICO Aprobación: 2016 / 04 / 06
@@ -153,8 +156,11 @@ Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
 ```
 1.4 Validación de la página secundaria fuente-poder.html: no se encontraron errores de sintaxis.
 
+![Image 6](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura5.PNG)
+
 1.5 Validación de la página secundaria perifericos.html: no se encontraron errores de sintaxis.
 
+![Image 7](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura6.PNG)
 
 ```
 CONSEJO ACADÉMICO Aprobación: 2016 / 04 / 06
@@ -162,8 +168,11 @@ Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
 ```
 1.6 Validación de la página secundaria placa-madre.html: no se encontraron errores de sintaxis.
 
+![Image 8](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura7.PNG)
+
 1.7 Validación de la página secundaria procesador.html: no se encontraron errores de sintaxis.
 
+![Image 9](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura8.PNG)
 
 ```
 CONSEJO ACADÉMICO Aprobación: 2016 / 04 / 06
@@ -171,8 +180,11 @@ Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
 ```
 1.8 Validación de la página secundaria ram.html: no se encontraron errores de sintaxis.
 
+![Image 10](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura9.PNG)
+
 1.9 Validación de la página secundaria tarjeta-video.html: no se encontraron errores de sintaxis.
 
+![Image 11](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura10.PNG)
 
 ```
 CONSEJO ACADÉMICO Aprobación: 2016 / 04 / 06
@@ -182,8 +194,11 @@ Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
 
 2.1 Validación de los estilos de pagina general.css: no se encontraron errores de sintaxis.
 
+![Image 12](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura11.PNG)
+
 2.2 Validación de los estilos de página principal.css: no se encontraron errores de sintaxis.
 
+![Image 13](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura12.PNG)
 
 ```
 CONSEJO ACADÉMICO Aprobación: 2016 / 04 / 06
@@ -191,8 +206,11 @@ Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
 ```
 2.3 Validación de los estilos de página 2columnas.css: no se encontraron errores de sintaxis.
 
+![Image 14](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura13.PNG)
+
 2.4 Validación de los estilos de página 3columnas.css: no se encontraron errores de sintaxis.
 
+![Image 15](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura14.PNG)
 
 ```
 CONSEJO ACADÉMICO Aprobación: 2016 / 04 / 06
@@ -200,9 +218,12 @@ Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
 ```
 ```
 2.5 Validación de los estilos de página cuenta.css: no se encontraron errores de sintaxis.
-```
+
+![Image 16](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura15.PNG)
+
 3.- Creación de archivo readme.md que contiene la información de la práctica y la resolución de esta.
 
+![Image 17](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura16.PNG)
 
 ```
 CONSEJO ACADÉMICO Aprobación: 2016 / 04 / 06
@@ -308,6 +329,7 @@ es el código siguiente <input type="text">
 
 a. Pantallazos de Paginas
 
+![Image 18](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura17.PNG)
 
 ```
 CONSEJO ACADÉMICO Aprobación: 2016 / 04 / 06
@@ -321,6 +343,7 @@ como una referencia.
 
 Se utilizo la misma cabecera y pie de página en todas las páginas web.
 
+![Image 19](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura18.PNG)
 
 ```
 CONSEJO ACADÉMICO Aprobación: 2016 / 04 / 06
@@ -329,6 +352,7 @@ Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
 Nota: Esta pagina esta estructurada en dos columnas, en la cual la barra de navegación esta a la izquierda la
 cual redirige a otras paginas web, y la caja de contenido esta a la derecha y abarca el 80%.
 
+![Image 20](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura19.PNG)
 
 ```
 CONSEJO ACADÉMICO Aprobación: 2016 / 04 / 06
@@ -338,6 +362,7 @@ Nota: Esta página está estructurada en 3 columnas, en la cual la barra de nave
 cual redirige a otras páginas web con una dimensión de 150px, la caja de contenido está en el centro y abarca
 el 55%, por último, el contenido de publicidad donde tiene contenido multimedia ya barca el 20% de la página.
 
+![Image 21](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura20.PNG)
 
 ```
 CONSEJO ACADÉMICO Aprobación: 2016 / 04 / 06
@@ -377,5 +402,7 @@ Nombre de estudiante: Pedro José Orellana Jaramillo
 ```
 ```
 Firma de estudiante:
+
+![Image 22](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura21.PNG)
 ```
 
