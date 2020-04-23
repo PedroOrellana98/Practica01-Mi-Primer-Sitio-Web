@@ -131,7 +131,7 @@ Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
 
 1. PAGINAS HTML
 
-![image1](Imagenes Practica 2 Hipermedial/Captura.PNG)
+![Image 1](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura.PNG)
 
 1.1 Validación de la página principal index.html: no se encontraron errores de sintaxis.
 ```
