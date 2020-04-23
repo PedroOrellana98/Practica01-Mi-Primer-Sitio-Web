@@ -131,7 +131,8 @@ Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
 
 1. PAGINAS HTML
 
-![imagen1](https://drive.google.com/open?id=1ZWV7eJXhoIBbvB9ce0_aopOKSPmHPa5N)
+<iframe src="https://drive.google.com/open?id=1ZWV7eJXhoIBbvB9ce0_aopOKSPmHPa5N" ></iframe>
+
 1.1 Validación de la página principal index.html: no se encontraron errores de sintaxis.
 ```
 
