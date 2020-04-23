@@ -146,6 +146,7 @@ Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
 1.3 Validación de la página secundaria cuenta.html: no se encontraron errores de sintaxis.
 
 ![Image 5](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura4.PNG)
+
 1.4 Validación de la página secundaria fuente-poder.html: no se encontraron errores de sintaxis.
 
 ![Image 6](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura5.PNG)
