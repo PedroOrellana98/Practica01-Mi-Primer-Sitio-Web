@@ -139,9 +139,6 @@ Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
 
 ![Image 3](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura2.PNG)
 
-CONSEJO ACADÉMICO Aprobación: 2016 / 04 / 06
-Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
-```
 1.2 Validación de la página secundaria almacenamiento.html: no se encontraron errores de sintaxis.
 
 ![Image 4](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura3.PNG)
@@ -149,11 +146,6 @@ Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
 1.3 Validación de la página secundaria cuenta.html: no se encontraron errores de sintaxis.
 
 ![Image 5](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura4.PNG)
-
-```
-CONSEJO ACADÉMICO Aprobación: 2016 / 04 / 06
-Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
-```
 1.4 Validación de la página secundaria fuente-poder.html: no se encontraron errores de sintaxis.
 
 ![Image 6](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura5.PNG)
@@ -162,10 +154,6 @@ Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
 
 ![Image 7](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura6.PNG)
 
-```
-CONSEJO ACADÉMICO Aprobación: 2016 / 04 / 06
-Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
-```
 1.6 Validación de la página secundaria placa-madre.html: no se encontraron errores de sintaxis.
 
 ![Image 8](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura7.PNG)
@@ -174,10 +162,6 @@ Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
 
 ![Image 9](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura8.PNG)
 
-```
-CONSEJO ACADÉMICO Aprobación: 2016 / 04 / 06
-Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
-```
 1.8 Validación de la página secundaria ram.html: no se encontraron errores de sintaxis.
 
 ![Image 10](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura9.PNG)
@@ -186,10 +170,7 @@ Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
 
 ![Image 11](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura10.PNG)
 
-```
-CONSEJO ACADÉMICO Aprobación: 2016 / 04 / 06
-Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
-```
+
 ## 2. ESTILOS CSS
 
 2.1 Validación de los estilos de pagina general.css: no se encontraron errores de sintaxis.
@@ -200,10 +181,6 @@ Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
 
 ![Image 13](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura12.PNG)
 
-```
-CONSEJO ACADÉMICO Aprobación: 2016 / 04 / 06
-Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
-```
 2.3 Validación de los estilos de página 2columnas.css: no se encontraron errores de sintaxis.
 
 ![Image 14](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura13.PNG)
@@ -212,11 +189,6 @@ Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
 
 ![Image 15](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura14.PNG)
 
-```
-CONSEJO ACADÉMICO Aprobación: 2016 / 04 / 06
-Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
-```
-```
 2.5 Validación de los estilos de página cuenta.css: no se encontraron errores de sintaxis.
 
 ![Image 16](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura15.PNG)
@@ -225,10 +197,6 @@ Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
 
 ![Image 17](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura16.PNG)
 
-```
-CONSEJO ACADÉMICO Aprobación: 2016 / 04 / 06
-Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
-```
 4.- Paginas de estilos css.
 
 Resumen de comandos mas utilizados, importantes y esenciales que se aplican en los estilos de cada css.
@@ -289,10 +257,6 @@ Importante: Para el comando: <!important> que hará que determinadas propiedades
 y, por tanto, se tengan más en cuenta que otras que puedan sobreescribirlas.
 ```
 
-```
-CONSEJO ACADÉMICO Aprobación: 2016 / 04 / 06
-Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
-```
 c. Página 2columnas.css
 
 Esta forma se aplicó solo a las paginas web almacenamiento, fuente de poder, procesador y ram
@@ -331,10 +295,6 @@ a. Pantallazos de Paginas
 
 ![Image 18](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura17.PNG)
 
-```
-CONSEJO ACADÉMICO Aprobación: 2016 / 04 / 06
-Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
-```
 Nota: Esta es la pagina principal se utilizo la misma estructura de la página web utilizando un mapa que dirige
 a la Universidad Poltecnica Salesiana.
 
@@ -345,30 +305,18 @@ Se utilizo la misma cabecera y pie de página en todas las páginas web.
 
 ![Image 19](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura18.PNG)
 
-```
-CONSEJO ACADÉMICO Aprobación: 2016 / 04 / 06
-Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
-```
 Nota: Esta pagina esta estructurada en dos columnas, en la cual la barra de navegación esta a la izquierda la
 cual redirige a otras paginas web, y la caja de contenido esta a la derecha y abarca el 80%.
 
 ![Image 20](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura19.PNG)
 
-```
-CONSEJO ACADÉMICO Aprobación: 2016 / 04 / 06
-Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
-```
 Nota: Esta página está estructurada en 3 columnas, en la cual la barra de navegación está a la izquierda la
 cual redirige a otras páginas web con una dimensión de 150px, la caja de contenido está en el centro y abarca
 el 55%, por último, el contenido de publicidad donde tiene contenido multimedia ya barca el 20% de la página.
 
 ![Image 21](https://github.com/PedroOrellana98/Practica02-Mi-Sitio-Web-CSS-/blob/master/Imagenes%20Practica%202%20Hipermedial/Captura20.PNG)
 
-```
-CONSEJO ACADÉMICO Aprobación: 2016 / 04 / 06
-Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación
-```
-```
+
 Nota: Esta página no tiene una estructura definida ya que tiene solo una columna de contenido en la cual 100%
 de la dimensión del contenido abarca un formulario para crear una cuenta para el usuario.
 ```
